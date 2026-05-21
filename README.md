@@ -1,4 +1,4 @@
-# 🐟 AI Powered Fish Weight Prediction Project
+# Fish Weight Prediction Project
 
 
 ---
